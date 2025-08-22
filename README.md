@@ -1,6 +1,6 @@
 # Semantic Continuity Packing: Provable Space-Filling-Order Context Construction for Long-Context LLMs
 
-**Authors:** (anonymized for review)  
+**Authors:** Zach Banks 
 **Date:** 2025-08-22
 
 ---
